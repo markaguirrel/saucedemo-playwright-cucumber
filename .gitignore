@@ -1,0 +1,9 @@
+# Dependencias
+node_modules/
+
+# Reportes y resultados
+reports/
+test-results/
+
+# macOS
+.DS_Store
